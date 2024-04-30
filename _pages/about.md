@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 permalink: /
 title: "my homepage"
