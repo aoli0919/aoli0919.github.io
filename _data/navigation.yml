@@ -1,19 +1,16 @@
 # main links links
 main:
   - title: "About Us"
-    url: "/#about-me"
+    url: "/about-us/"
 
   - title: "News"
-    url: "/"
+    url: "/news/"
 
   - title: "Publications"
     url: "/publications/"
 
   - title: "People"
-    url: "/about-us/"
-
-  - title: "Opportunities"
-    url: "/#-educations"
+    url: "/people/"
 
   - title: "Contact Us"
-    url: "/#-invited-talks"
+    url: "/contact-us/"
