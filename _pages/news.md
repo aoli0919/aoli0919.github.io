@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 首页
-permalink: /
+title: nws
+permalink: /news/
 ---
 
-newsnewsnews
+there are something news...
