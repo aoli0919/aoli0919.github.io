@@ -7,7 +7,7 @@ main:
     url: "/"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/publications/"
 
   - title: "People"
     url: "/about-us/"
